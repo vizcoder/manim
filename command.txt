@@ -1,0 +1,4 @@
+manim intro.py PythonListsTitle -pql
+
+
+watchmedo shell-command --patterns="*intro.py" --command='manim intro.py PythonListsTitle -pql' .
